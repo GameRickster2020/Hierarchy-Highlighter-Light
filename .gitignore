@@ -1,0 +1,11 @@
+# Track only the custom Hierarchy Highlight scripts in this repository.
+*
+!.gitignore
+!Assets/
+!Assets/PREFABS-GRMEDIA/
+!Assets/PREFABS-GRMEDIA/SCRIPTS/
+!Assets/PREFABS-GRMEDIA/SCRIPTS/Hieratchy/
+!Assets/PREFABS-GRMEDIA/SCRIPTS/Hieratchy/HierarchyHighlight.cs
+!Assets/PREFABS-GRMEDIA/SCRIPTS/Hieratchy/HierarchyHighlight.cs.meta
+!Assets/PREFABS-GRMEDIA/SCRIPTS/Hieratchy/HierarchyHighlightDrawer.cs
+!Assets/PREFABS-GRMEDIA/SCRIPTS/Hieratchy/HierarchyHighlightDrawer.cs.meta
